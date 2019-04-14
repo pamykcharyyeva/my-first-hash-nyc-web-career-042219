@@ -1,8 +1,5 @@
 def my_hash
- your_hash= {
-   name=> Pam, 
-   age=> 27
- }
+ my_first_test= {"testing"=> "My first test in Hashes"}
 end
 
 
